@@ -1,13 +1,13 @@
 var config = {
   points: {
     init_number: 2,
-    max_number: 20,
-    break_speed: 0.1
+    max_number: 25,
+    break_speed: 0.05
   },
   max_speed: 1.5, //pixels
   move_distance: 200, //pixels
-  chance_to_move: 10, //percent
-  chance_to_split: 40, //percent
+  chance_to_move: 0, //percent
+  chance_to_split: 50, //percent
   draw_mode: "1",
   color_mutation: 10,
   split_mode: "1"
