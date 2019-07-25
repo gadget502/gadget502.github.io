@@ -2,6 +2,7 @@
 	margin: 0px;
 	border: 0px;
 	width: 100%;
+	background-color: #EEEEEE;
 }
 table {
 	width: 100%;
@@ -13,12 +14,13 @@ td, th {
 	border: 2px solid #bcbcbc;
 }
 html * {
-	font-family: 맑은 고딕,Segoe UI;
+	font-family: verdana,sans-serif,맑은 고딕,Segoe UI;
 }
 h1 {
 	padding: 0px;
 	margin: 0px;
-	padding-bottom: 4px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 h2 {
 	padding: 0px;
@@ -60,4 +62,16 @@ a:hover{
 	margin: 0px;
 	padding: 0px;
 	border: 0px;
+}
+div.contentbody {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 40px;
+	background-color: #FFFFFF;
+}
+ul {
+	margin-top: 0px;
 }
