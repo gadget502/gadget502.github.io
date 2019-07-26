@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300&display=swap');
+
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36pt;
+    margin-bottom: 0;
+    color: white;
+}
+
+h4{
+    font-family: 'Roboto Thin', sans-serif;
+    font-size: 13pt;
+    margin-bottom: 0;
+    color: white;
+}
